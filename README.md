@@ -1,2 +1,2 @@
-# binary_trees
-A project on binary trees
+# Binary_Trees
+A project on Binary Trees, Search Trees, and Tree Traversal
